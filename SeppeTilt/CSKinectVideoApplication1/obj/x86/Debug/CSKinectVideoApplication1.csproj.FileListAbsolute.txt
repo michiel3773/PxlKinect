@@ -1,0 +1,28 @@
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\bin\Debug\CSKinectVideoApplication1.exe
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\bin\Debug\CSKinectVideoApplication1.pdb
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1_MarkupCompile.cache
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.g.resources
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.Properties.Resources.resources
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.csproj.GenerateResource.Cache
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.exe
+C:\Users\Seppe\Documents\Visual Studio 2013\Projects\wpf test\kinectContribVideotest\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.pdb
+H:\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.exe
+H:\CSKinectVideoApplication1\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.pdb
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.exe
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.pdb
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\bin\Debug\CSKinectVideoApplication1.exe
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\bin\Debug\CSKinectVideoApplication1.pdb
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1_MarkupCompile.cache
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.g.resources
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.Properties.Resources.resources
+C:\Users\Seppe\Documents\Project Kinect\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.csproj.GenerateResource.Cache
+C:\Users\Seppe\Documents\Project Kinect\applicatie backup donderdag\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.exe
+C:\Users\Seppe\Documents\Project Kinect\applicatie backup donderdag\CSKinectVideoApplication1\obj\x86\Debug\CSKinectVideoApplication1.pdb
